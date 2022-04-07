@@ -7,4 +7,8 @@ Junior Software Developer
 -💻Learning about open-source     
 -🆘Ask me how to get started in programming   
 -↗Always looking for study partners to level up in Algorithms and Data Structures  
--💪Fitness geek  
+-💪Fitness geek    
+
+## Github Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sseidmed&theme=synthwave&show_icons=true)
