@@ -2,7 +2,7 @@
 
 I am Shay Seidmedova  
 Junior Software Developer  
-Blog: https://sseidmed-blog.social/
+Read my blog: https://sseidmed-blog.social/
 
 -🤓 I'm a junior developer working with Vue.js, Flask    
 -💻 Learning about open-source     
