@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Shay Seidmedova  
-Junior Software Developer with 2 years of experience
+Junior Software Developer with 2 years of experience 
 Read my blog: https://sseidmed-blog.social/
 
 -🤓 I'm a junior developer working with Vue.js, Flask    
