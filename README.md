@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Shay Seidmedova  
-Software Developer with over 2 years of experience  
+Software Developer with 3 years of experience  
 Read my blog: https://sseidmed-blog.social/
 
 -🤓 I'm a software engineer working with Vue.js, Flask and SQLAlchemy  
