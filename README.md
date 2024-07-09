@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Shay Seidmedova  
+Graduate of University of Wyoming  
 Software Developer with 3 years of experience  
 Read my blog: https://sseidmed-blog.social/
 
